@@ -1,3 +1,3 @@
 # 👋 Welcome to the Magic Patterns GitHub
 
-Check us out at [www.magicpatterns.com](www.magicpatterns.com)
+Start generating UI: [www.magicpatterns.com](https://www.magicpatterns.com)
